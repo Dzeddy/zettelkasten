@@ -1,0 +1,1086 @@
+=== ZETTELKASTEN DATABASE COMPLETE EXPORT ===
+Database: zettelkasten
+Collections: documents
+
+=== USERS COLLECTION ===
+
+=== DOCUMENTS COLLECTION ===
+{
+  _id: ObjectId('68361524eb4b4991fc4a4fe2'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'kek',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:40:20.371Z'),
+  metadata: {
+    title: 'kek',
+    original_path: 'kek.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361526eb4b4991fc4a4fe3'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Boston',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:40:22.668Z'),
+  metadata: {
+    title: 'Boston',
+    original_path: 'Boston.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361528eb4b4991fc4a4fe4'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'relation',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:40:24.087Z'),
+  metadata: {
+    title: 'relation',
+    original_path: 'relation.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361528eb4b4991fc4a4fe5'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Take Home Test 1',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:40:24.090Z'),
+  metadata: {
+    title: 'Take Home Test 1',
+    original_path: 'Take Home Test 1.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361582eb4b4991fc4a4fe6'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Take Home Test 1',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:41:54.120Z'),
+  metadata: {
+    title: 'Take Home Test 1',
+    original_path: 'Take Home Test 1.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361585eb4b4991fc4a4fe7'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Boston',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:41:57.250Z'),
+  metadata: {
+    title: 'Boston',
+    original_path: 'Boston.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361586eb4b4991fc4a4fe8'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'kek',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:41:58.823Z'),
+  metadata: {
+    title: 'kek',
+    original_path: 'kek.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361589eb4b4991fc4a4fe9'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'relation',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:42:01.337Z'),
+  metadata: {
+    title: 'relation',
+    original_path: 'relation.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361589eb4b4991fc4a4fea'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '2025-02-23',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:01.338Z'),
+  metadata: {
+    title: '2025-02-23',
+    original_path: '2025-02-23.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836158aeb4b4991fc4a4feb'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Who am I',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:02.164Z'),
+  metadata: {
+    title: 'Who am I',
+    original_path: 'Who am I.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836158beb4b4991fc4a4fec'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Test 3',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:03.075Z'),
+  metadata: {
+    title: 'Test 3',
+    original_path: 'Test 3.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836158beb4b4991fc4a4fed'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Goals',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:42:03.858Z'),
+  metadata: {
+    title: 'Goals',
+    original_path: 'Goals.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836158beb4b4991fc4a4fee'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'DBMS - RETIRED BITCH',
+  source_type: 'standard',
+  chunk_count: 9,
+  uploaded_at: ISODate('2025-05-27T19:42:03.861Z'),
+  metadata: {
+    title: 'DBMS - RETIRED BITCH',
+    original_path: 'DBMS - RETIRED BITCH.zip'
+  },
+  status: 'processing_chunks'
+}
+{
+  _id: ObjectId('6836158ceb4b4991fc4a4fef'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'RAA - RETIRED BITCH',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:04.567Z'),
+  metadata: {
+    title: 'RAA - RETIRED BITCH',
+    original_path: 'RAA - RETIRED BITCH.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836158deb4b4991fc4a4ff0'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Comp GFX',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:05.561Z'),
+  metadata: {
+    title: 'Comp GFX',
+    original_path: 'Comp GFX.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836158feb4b4991fc4a4ff1'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'GPU vs CPU',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:07.821Z'),
+  metadata: {
+    title: 'GPU vs CPU',
+    original_path: 'GPU vs CPU.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361590eb4b4991fc4a4ff2'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Vertex Shaders',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:08.398Z'),
+  metadata: {
+    title: 'Vertex Shaders',
+    original_path: 'Vertex Shaders.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361591eb4b4991fc4a4ff3'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Shaders',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:09.126Z'),
+  metadata: {
+    title: 'Shaders',
+    original_path: 'Shaders.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361592eb4b4991fc4a4ff4'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Fragment Shader Texture Map',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:10.777Z'),
+  metadata: {
+    title: 'Fragment Shader Texture Map',
+    original_path: 'Fragment Shader Texture Map.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361593eb4b4991fc4a4ff5'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Buffers',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:11.461Z'),
+  metadata: {
+    title: 'Buffers',
+    original_path: 'Buffers.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361594eb4b4991fc4a4ff6'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Quaternions Lighting',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:12.255Z'),
+  metadata: {
+    title: 'Quaternions Lighting',
+    original_path: 'Quaternions Lighting.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361595eb4b4991fc4a4ff7'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Graphics Pipelines',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:13.274Z'),
+  metadata: {
+    title: 'Graphics Pipelines',
+    original_path: 'Graphics Pipelines.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361597eb4b4991fc4a4ff8'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Vertex Buffer Bindings',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:15.528Z'),
+  metadata: {
+    title: 'Vertex Buffer Bindings',
+    original_path: 'Vertex Buffer Bindings.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('68361599eb4b4991fc4a4ff9'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'VAOs (Vertex Attribute Objects)',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:17.536Z'),
+  metadata: {
+    title: 'VAOs (Vertex Attribute Objects)',
+    original_path: 'VAOs (Vertex Attribute Objects).md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836159ceb4b4991fc4a4ffa'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'VBOs (Vertex Buffer Objects)',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:20.359Z'),
+  metadata: {
+    title: 'VBOs (Vertex Buffer Objects)',
+    original_path: 'VBOs (Vertex Buffer Objects).md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836159deb4b4991fc4a4ffb'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Vertex',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:21.198Z'),
+  metadata: {
+    title: 'Vertex',
+    original_path: 'Vertex.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836159eeb4b4991fc4a4ffc'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Clip Space',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:22.453Z'),
+  metadata: {
+    title: 'Clip Space',
+    original_path: 'Clip Space.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('6836159feb4b4991fc4a4ffd'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Test Prep',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:23.462Z'),
+  metadata: {
+    title: 'Test Prep',
+    original_path: 'Test Prep.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a0eb4b4991fc4a4ffe'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Review',
+  source_type: 'standard',
+  chunk_count: 4,
+  uploaded_at: ISODate('2025-05-27T19:42:24.252Z'),
+  metadata: {
+    original_path: 'Review.md',
+    title: 'Review'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a3eb4b4991fc4a4fff'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '1. Application Stage',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:42:27.061Z'),
+  metadata: {
+    title: '1. Application Stage',
+    original_path: '1. Application Stage.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a5eb4b4991fc4a5000'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Untitled',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:42:29.797Z'),
+  metadata: {
+    title: 'Untitled',
+    original_path: 'Untitled.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a5eb4b4991fc4a5001'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '2. Geometry Stage',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:29.798Z'),
+  metadata: {
+    title: '2. Geometry Stage',
+    original_path: '2. Geometry Stage.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a6eb4b4991fc4a5002'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Untitled 1',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:42:30.954Z'),
+  metadata: {
+    title: 'Untitled 1',
+    original_path: 'Untitled 1.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a6eb4b4991fc4a5003'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'pipeline - gemini',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:42:30.955Z'),
+  metadata: {
+    title: 'pipeline - gemini',
+    original_path: 'pipeline - gemini.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a6eb4b4991fc4a5004'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '3. Geometry Stage',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:42:30.956Z'),
+  metadata: {
+    title: '3. Geometry Stage',
+    original_path: '3. Geometry Stage.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615a8eb4b4991fc4a5005'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'discretization',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:32.762Z'),
+  metadata: {
+    original_path: 'discretization.md',
+    title: 'discretization'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615abeb4b4991fc4a5006'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '5. Types of ER to Relational',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:35.716Z'),
+  metadata: {
+    title: '5. Types of ER to Relational',
+    original_path: '5. Types of ER to Relational.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615aceb4b4991fc4a5007'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '1. Intro to Databases',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:42:36.720Z'),
+  metadata: {
+    title: '1. Intro to Databases',
+    original_path: '1. Intro to Databases.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615afeb4b4991fc4a5008'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '2. ER Diagrams',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:39.790Z'),
+  metadata: {
+    title: '2. ER Diagrams',
+    original_path: '2. ER Diagrams.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615b0eb4b4991fc4a5009'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '8. Get that bag sis',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:40.580Z'),
+  metadata: {
+    title: '8. Get that bag sis',
+    original_path: '8. Get that bag sis.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615b2eb4b4991fc4a500a'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Last bit',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:42.094Z'),
+  metadata: {
+    original_path: 'Last bit.md',
+    title: 'Last bit'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615b2eb4b4991fc4a500b'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Practice Test 1c',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:42:42.733Z'),
+  metadata: {
+    title: 'Practice Test 1c',
+    original_path: 'Practice Test 1c.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615b4eb4b4991fc4a500c'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '4. ER to Relational',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:44.364Z'),
+  metadata: {
+    title: '4. ER to Relational',
+    original_path: '4. ER to Relational.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615b6eb4b4991fc4a500d'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Practice Test 1 (DBMS)',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:46.093Z'),
+  metadata: {
+    original_path: 'Practice Test 1 (DBMS).md',
+    title: 'Practice Test 1 (DBMS)'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615b8eb4b4991fc4a500e'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '9. Functional Dependencies',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:48.416Z'),
+  metadata: {
+    title: '9. Functional Dependencies',
+    original_path: '9. Functional Dependencies.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615baeb4b4991fc4a500f'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Practice Test (ER Diagrams)',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:50.063Z'),
+  metadata: {
+    title: 'Practice Test (ER Diagrams)',
+    original_path: 'Practice Test (ER Diagrams).md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615bceb4b4991fc4a5010'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '7. Relational Algebra',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:52.598Z'),
+  metadata: {
+    title: '7. Relational Algebra',
+    original_path: '7. Relational Algebra.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615beeb4b4991fc4a5011'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Practice Test 1b (DBMS)',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:54.688Z'),
+  metadata: {
+    title: 'Practice Test 1b (DBMS)',
+    original_path: 'Practice Test 1b (DBMS).md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615c0eb4b4991fc4a5012'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'SQL2',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:56.401Z'),
+  metadata: {
+    title: 'SQL2',
+    original_path: 'SQL2.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615c2eb4b4991fc4a5013'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: '3. Deeper ER Diagrams',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:42:58.284Z'),
+  metadata: {
+    original_path: '3. Deeper ER Diagrams.md',
+    title: '3. Deeper ER Diagrams'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615c3eb4b4991fc4a5014'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Constraints',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:42:59.697Z'),
+  metadata: {
+    original_path: 'Constraints.md',
+    title: 'Constraints'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615c5eb4b4991fc4a5015'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Views and Indices',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:01.156Z'),
+  metadata: {
+    original_path: 'Views and Indices.md',
+    title: 'Views and Indices'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615c6eb4b4991fc4a5016'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Normal-Forms',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:02.693Z'),
+  metadata: {
+    title: 'Normal-Forms',
+    original_path: 'Normal-Forms.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615c7eb4b4991fc4a5017'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Transactions',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:43:03.319Z'),
+  metadata: {
+    title: 'Transactions',
+    original_path: 'Transactions.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615cbeb4b4991fc4a5018'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Lover',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:43:07.391Z'),
+  metadata: {
+    title: 'Lover',
+    original_path: 'Lover.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615cbeb4b4991fc4a5019'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'How do I feel about Melissa?',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:07.392Z'),
+  metadata: {
+    title: 'How do I feel about Melissa?',
+    original_path: 'How do I feel about Melissa?.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615cbeb4b4991fc4a501a'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Insecurities? IDK',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:07.930Z'),
+  metadata: {
+    title: 'Insecurities? IDK',
+    original_path: 'Insecurities? IDK.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615cdeb4b4991fc4a501b'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'workspace',
+  source_type: 'standard',
+  chunk_count: 7,
+  uploaded_at: ISODate('2025-05-27T19:43:09.744Z'),
+  metadata: {
+    title: 'workspace',
+    original_path: 'workspace.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615d3eb4b4991fc4a501c'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'app',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:15.212Z'),
+  metadata: {
+    original_path: 'app.json',
+    title: 'app'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615d3eb4b4991fc4a501d'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'core-plugins',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:15.861Z'),
+  metadata: {
+    title: 'core-plugins',
+    original_path: 'core-plugins.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615d4eb4b4991fc4a501e'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'community-plugins',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:16.653Z'),
+  metadata: {
+    title: 'community-plugins',
+    original_path: 'community-plugins.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615d6eb4b4991fc4a501f'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'graph',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:18.857Z'),
+  metadata: {
+    original_path: 'graph.json',
+    title: 'graph'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615d8eb4b4991fc4a5020'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'appearance',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:20.458Z'),
+  metadata: {
+    original_path: 'appearance.json',
+    title: 'appearance'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615d9eb4b4991fc4a5021'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'manifest',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:21.433Z'),
+  metadata: {
+    title: 'manifest',
+    original_path: 'manifest.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615dbeb4b4991fc4a5022'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'data',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:23.244Z'),
+  metadata: {
+    title: 'data',
+    original_path: 'data.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615dbeb4b4991fc4a5023'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'manifest',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:23.799Z'),
+  metadata: {
+    original_path: 'manifest.json',
+    title: 'manifest'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615dceb4b4991fc4a5024'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'data',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:24.592Z'),
+  metadata: {
+    title: 'data',
+    original_path: 'data.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615ddeb4b4991fc4a5025'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'manifest',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:25.704Z'),
+  metadata: {
+    title: 'manifest',
+    original_path: 'manifest.json'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615deeb4b4991fc4a5026'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Behavioral',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:26.455Z'),
+  metadata: {
+    title: 'Behavioral',
+    original_path: 'Behavioral.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615dfeb4b4991fc4a5027'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'System Design',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:27.146Z'),
+  metadata: {
+    title: 'System Design',
+    original_path: 'System Design.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e2eb4b4991fc4a5028'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Synchronous vs Asynchronous Communication',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:30.200Z'),
+  metadata: {
+    original_path: 'Synchronous vs Asynchronous Communication.md',
+    title: 'Synchronous vs Asynchronous Communication'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e2eb4b4991fc4a5029'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Scalability',
+  source_type: 'standard',
+  chunk_count: 2,
+  uploaded_at: ISODate('2025-05-27T19:43:30.904Z'),
+  metadata: {
+    title: 'Scalability',
+    original_path: 'Scalability.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e4eb4b4991fc4a502a'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Horizontal vs Vertical Scaling',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:32.138Z'),
+  metadata: {
+    title: 'Horizontal vs Vertical Scaling',
+    original_path: 'Horizontal vs Vertical Scaling.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e4eb4b4991fc4a502b'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Database Types',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:32.814Z'),
+  metadata: {
+    title: 'Database Types',
+    original_path: 'Database Types.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e5eb4b4991fc4a502c'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Tradeoffs',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:33.342Z'),
+  metadata: {
+    title: 'Tradeoffs',
+    original_path: 'Tradeoffs.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e6eb4b4991fc4a502d'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Hubspot',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:34.852Z'),
+  metadata: {
+    title: 'Hubspot',
+    original_path: 'Hubspot.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e7eb4b4991fc4a502e'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'System Design Cheat Sheet',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:35.681Z'),
+  metadata: {
+    title: 'System Design Cheat Sheet',
+    original_path: 'System Design Cheat Sheet.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e8eb4b4991fc4a502f'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Untitled',
+  source_type: 'standard',
+  chunk_count: 0,
+  uploaded_at: ISODate('2025-05-27T19:43:36.166Z'),
+  metadata: {
+    title: 'Untitled',
+    original_path: 'Untitled.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e8eb4b4991fc4a5030'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Sorting & Searching',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:36.166Z'),
+  metadata: {
+    title: 'Sorting & Searching',
+    original_path: 'Sorting & Searching.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615e9eb4b4991fc4a5031'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Two Sum',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:37.438Z'),
+  metadata: {
+    title: 'Two Sum',
+    original_path: 'Two Sum.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615eaeb4b4991fc4a5032'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Product except self',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:38.220Z'),
+  metadata: {
+    title: 'Product except self',
+    original_path: 'Product except self.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615eaeb4b4991fc4a5033'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Is Anagram',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:38.897Z'),
+  metadata: {
+    title: 'Is Anagram',
+    original_path: 'Is Anagram.md'
+  },
+  status: 'completed'
+}
+{
+  _id: ObjectId('683615ebeb4b4991fc4a5034'),
+  user_id: ObjectId('683606e669cc27dddfe79425'),
+  title: 'Inorder Traversal (Iterative and Recursive)',
+  source_type: 'standard',
+  chunk_count: 1,
+  uploaded_at: ISODate('2025-05-27T19:43:39.580Z'),
+  metadata: {
+    title: 'Inorder Traversal (Iterative and Recursive)',
+    original_path: 'Inorder Traversal (Iterative and Recursive).md'
+  },
+  status: 'completed'
+}
