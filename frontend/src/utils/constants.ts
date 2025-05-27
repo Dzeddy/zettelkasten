@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:8080/v1';
+export const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:8080/v1';
 
 export const STORAGE_KEYS = {
   AUTH_TOKEN: 'authToken',

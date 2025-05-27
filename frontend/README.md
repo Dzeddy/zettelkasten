@@ -67,12 +67,21 @@ Complex logic is extracted into custom hooks:
    npm install
    ```
 
-2. **Start development server**:
+2. **Configure environment variables** (optional):
+   ```bash
+   # Create a .env file in the frontend directory
+   echo "REACT_APP_API_URL=http://localhost:8080/v1" > .env
+   ```
+   
+   Available environment variables:
+   - `REACT_APP_API_URL`: Backend API URL (defaults to `http://localhost:8080/v1`)
+
+3. **Start development server**:
    ```bash
    npm start
    ```
 
-3. **Build for production**:
+4. **Build for production**:
    ```bash
    npm run build
    ```

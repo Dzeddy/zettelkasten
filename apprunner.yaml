@@ -1,0 +1,16 @@
+version: 1.0
+runtime: go121
+build:
+  commands:
+    build:
+      - echo "Building Go application..."
+      - go build -o main ./backend/cmd/main.go
+run:
+  runtime-version: go121
+  command: ./main
+  network:
+    port: 8080
+    env: PORT
+  env:
+    - name: PORT
+      value: "8080" 
