@@ -20,9 +20,9 @@ This project automates the hard parts:
 ## Architecture
 
 ```
-┌──────────┐      HTTP/WS       ┌───────────────┐
-│ Frontend │  ◄───────────────► │ Go API (chi)  │
-└──────────┘                    ├───────────────┤
+┌──────────┐      HTTP/WS      ┌───────────────┐
+│ Frontend │  ◄───────────────►│ Go API (chi)  │
+└──────────┘                   ├───────────────┤
                                │ Services      │
                                │  • Auth (JWT) │
                                │  • Documents  │
