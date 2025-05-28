@@ -1,0 +1,14 @@
+# ECR Deployment Configuration
+# Edit these values to match your AWS setup
+
+AWS_REGION=us-east-1
+AWS_ACCOUNT_ID=471112671504
+REPOSITORY_NAME=zettelkasten-backend
+IMAGE_TAG=latest
+DOCKERFILE_PATH=backend
+
+# Optional: Set to 'true' to skip deployment on certain branches
+SKIP_BRANCHES="develop,feature/*"
+
+# Optional: Set to 'true' to enable verbose logging
+VERBOSE=false 
