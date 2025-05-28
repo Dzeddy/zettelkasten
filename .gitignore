@@ -6,6 +6,7 @@
 !backend/
 !README.md
 !.gitignore
+!.github/workflows/
 
 # Keep the directories but ignore their contents will be handled by their own .gitignore files
 # This allows the frontend/ and backend/ directories to have their own .gitignore rules 
