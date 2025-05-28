@@ -63,7 +63,7 @@ func (h *AuthHandler) SignUp(w http.ResponseWriter, r *http.Request) {
 	h.emailService.SendVerificationEmail(user.Email, "verification_token")
 
 	respondWithJSON(w, http.StatusCreated, map[string]interface{}{
-		"message": "User created successfully. Please check your email for verification.",
+		"message": "User created successfully.",
 		"user_id": user.ID.Hex(),
 	})
 }

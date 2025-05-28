@@ -1,0 +1,11 @@
+# Ignore everything in root directory
+/*
+
+# But don't ignore these directories and files
+!frontend/
+!backend/
+!README.md
+!.gitignore
+
+# Keep the directories but ignore their contents will be handled by their own .gitignore files
+# This allows the frontend/ and backend/ directories to have their own .gitignore rules 
